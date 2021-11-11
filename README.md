@@ -1,4 +1,4 @@
-# Pytohon-Mini-Game
+# Pytohon-Mini-Project
 Library management, with 🐍Python OO.
 
 Unederstanding basic Module and Function of Python and Opeation.
